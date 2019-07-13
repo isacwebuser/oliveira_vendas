@@ -15,5 +15,5 @@ ollocarlidadarllidalllidalllidnkkkldai
 kdalilda
 
 
-A
+
 echo "começo 10";
